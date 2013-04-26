@@ -32,7 +32,7 @@ title: ✧*。ヾ(｡>﹏<｡)ﾉﾞ。*✧
 
 ## irc
 ---
-特に誰もいないけど、`azunyan bot`と`ishiki_check bot`がお出迎えしてくれるirc部屋  
+特に誰もいないけど、azunyan botとishikicheck botがお出迎えしてくれるirc部屋  
 「ishiki_check」とか「ペロペロ」とかに反応する可愛いbot達
 
 irc://irc.leeno.jp:6667 / #guest
