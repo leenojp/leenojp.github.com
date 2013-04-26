@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Leeno
+title: ✧*。ヾ(｡>﹏<｡)ﾉﾞ。*✧
 ---
 {% include JB/setup %}
 
 
-## Leeno Member
+## member
 ---
 
 ### soplana
@@ -28,8 +28,16 @@ title: Leeno
 
 ### ishiki_check bot
 ##### ティッシュの一枚目が上手に取れない奴は、大体何をやらしてもダメ。
+
+
+## irc
+---
+特に誰もいないけど、azunyan botとishiki_check botがお出迎えしてくれるirc部屋  
+「ishiki_check」とか「ペロペロ」とかに反応する可愛いbot達
+
+irc://irc.leeno.jp:6667 / #guest
     
-## Blogs 
+## blogs 
 ---
 
 <ul class="posts">
