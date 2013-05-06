@@ -25,15 +25,15 @@ title: "leenothon #9 のまとめ"
 おかしをくう.  
 各々今日のテーマを決めてモクモク作業に入る.
   
-@soplana - c++の勉強  
-@happs - SSLの勉強  
-@crifff - yii2.0の勉強  
-@t_hash - jsの勉強とzaimのエラー対応  
+@soplana - v8 
+@happs - SSL  
+@crifff - yii2.0  
+@t_hash - clojure
 
 ## 16:30 
 新Leenoへの移行スクリプトが終了したので立ち上げるとデータが重複して登録されているハプニング.  
 色々考えた挙句再度修正してスクリプトを流す方が手っ取り早そうなので泣く泣く全削除.  
-ちなみにデータ移行の度にS3に数万の画像がpostされるので俺のサイフがマッハ.
+ちなみにデータ移行の度にS3に数万の画像がpostされるので@soplanaのサイフがマッハ.
 
 ![room1](http://dl.dropboxusercontent.com/u/92653510/blog/leenothon%239/le.png)
   
@@ -66,7 +66,7 @@ v8をビルドして, c++で標準入力から受け取った文字をjavascript
 sqliteに保存されてるskypeのログをevernoteに日毎に保存するツール. Clojureで実装.
 
 #### @happs
-https://gist.github.com/memerelics/5520445  
+[https://gist.github.com/happs-/55b903cc551c45b4186a](https://gist.github.com/happs-/55b903cc551c45b4186a)
 
 SSLについて. 通信方式の話と, 暗号化のアルゴリズムに少し触れてた.
 
