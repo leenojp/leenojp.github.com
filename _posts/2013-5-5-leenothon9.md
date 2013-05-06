@@ -21,6 +21,11 @@ title: "leenothon #9 のまとめ"
 
 ![room1](http://dl.dropboxusercontent.com/u/92653510/blog/leenothon%239/BJeM4d0CAAAEt3o.jpg)
 
+明らかに4人しかいなく, 寿司も4貫しかないのに@soplanaのサーモンが無くなるという事態が発生する.  
+メンバー全員がシラを切り迷宮入りへ.  
+絶対に許さない.
+
+
 ## 13:30 
 おかしをくう.  
 各々今日のテーマを決めてモクモク作業に入る.
