@@ -13,7 +13,7 @@ title: "leenothon #9 のまとめ"
 ## 12:00
 
 やっと全員あつまる.  
-今日は新Leenoをリリース予定なので, 現行（5/5現在）Leenoのデータを新Leenoに移行するスクリプトを流し始める.  
+今日は[新Leeno](http://leeno.jp)をリリース予定なので, 現行（5/5現在）Leenoのデータを新Leenoに移行するスクリプトを流し始める.  
 ちなみにフルスクラッチで書きなおしたのが本日2度目.
 
 ## 12:30 
@@ -30,7 +30,7 @@ title: "leenothon #9 のまとめ"
 おかしをくう.  
 各々今日のテーマを決めてモクモク作業に入る.
   
-@soplana - v8 
+@soplana - v8  
 @happs - SSL  
 @crifff - yii2.0  
 @t_hash - clojure
@@ -52,7 +52,7 @@ title: "leenothon #9 のまとめ"
 
 
 ## 19:00 
-http://leeno.jp がリリースされる.  
+[http://leeno.jp](http://leeno.jp) がリリースされる.  
 わぁい.
 
 
